@@ -19,6 +19,16 @@
   - [removeAll()](#removeall)
 - [Options](#options)
 
+> ![THIS IS NOT THE PACKAGE YOU ARE LOOKING FOR](http://i0.kym-cdn.com/entries/icons/original/000/018/682/obi-wan.jpg)
+>
+> THIS IS **NOT** THE MODULE YOU ARE LOOKING FOR! Please use
+> https://github.com/salemdar/ngx-cookie! This repository exists
+> only for security awareness and training purposes to demonstrate the
+> issue of _typosquatting_ within the OWASP Juice Shop! Please check out
+> https://github.com/bkimminich/juice-shop/issues/368 and
+> https://iamakulov.com/notes/npm-malicious-packages/ for more
+> information!
+
 ## <a name="get-started"></a> Get Started
 
 ### <a name="installation"></a> Installation
@@ -27,9 +37,9 @@ You can install this package locally with npm.
 
 ```bash
 # To get the latest stable version and update package.json file:
-yarn add ngx-cookie
+yarn add ngy-cookie
 # or
-# npm install ngx-cookie --save
+# npm install ngy-cookie --save
 ```
 
 ### <a name="usage"></a> Usage
